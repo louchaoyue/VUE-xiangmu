@@ -27,3 +27,21 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+当前项目用到的技术
+```
+vue-router
+sass
+vuex
+axios
+路由懒加载
+公共组件的封装(JS组件,UI组件)
+webpack
+mint-ui
+mockjs
+swiper
+better-scroll
+vue-lazyload
+localStorage/sessionStroage
+
+```
